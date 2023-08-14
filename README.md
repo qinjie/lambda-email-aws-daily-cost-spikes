@@ -22,7 +22,11 @@ This lambda function pulls the estimated costs for all services from AWS CloudWa
 5. Grant lambda execution role with permissions to access RDS and SES.
 6. Use Eventbridge to schedule the lambda function to run daily.
 
+### Result
 
+![image-20230814130801001](./assets.README/image-20230814130801001.png)
+
+![Snipaste_2023-08-14_13-05-32](./assets.README/Snipaste_2023-08-14_13-05-32.jpg)
 
 
 ### Reference
